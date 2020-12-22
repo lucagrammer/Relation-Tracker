@@ -1,4 +1,4 @@
-# CLup - Customer Line-Up
+# Relation Tracker
 Project for the Algoritmi e Principi dell'informatica course at Politecnico di Milano. 
 
 ## The problem
